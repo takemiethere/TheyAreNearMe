@@ -7,8 +7,8 @@
 <br />
 
 
-631310155 พิชามญช์ นกคุ้ม https://github.com/ictsu631310155 <br/> 
-631310442 ธนาภรณ์ บัวซ้อน https://github.com/ictsu631310442 <br/>
-631310443 ธัญลักษณ์ อยู่เจริญกิจ https://github.com/ictsu631310443 <br/>
-631310446 พัชรินทร์ มั่งมาลัย https://github.com/ictsu631310446 <br/>
-631310453 สาธิตา นกวอน https://github.com/ictsu631310453 <br/>
+631310155 พิชามญช์ นกคุ้ม | Technical Artist / Rig | https://github.com/ictsu631310155 <br/> 
+631310442 ธนาภรณ์ บัวซ้อน | Concept designer / Ui Designer |  https://github.com/ictsu631310442 <br/>
+631310443 ธัญลักษณ์ อยู่เจริญกิจ | Level Designer / Tester|  https://github.com/ictsu631310443 <br/>
+631310446 พัชรินทร์ มั่งมาลัย | Game Dev / Ui Designer |  https://github.com/ictsu631310446 <br/>
+631310453 สาธิตา นกวอน | 3D Modeler / Game Designer/Game Dev |  https://github.com/ictsu631310453 <br/>
