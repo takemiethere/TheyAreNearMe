@@ -6,6 +6,8 @@ using UnityEditor.Timeline;
 
 public class Timer : MonoBehaviour
 {
+    public GameObject WinUI;
+
     [Header("Component")]
     public TextMeshProUGUI timerText;
     
@@ -41,7 +43,7 @@ public class Timer : MonoBehaviour
             SetTimerText();
             timerText.color=Color.red;
             enabled = false;
-            GameOver();
+            Win();
         }
         SetTimerText();
     }
@@ -60,8 +62,11 @@ public class Timer : MonoBehaviour
         HundrethsDecimal
     }
 
-    public void GameOver()
+    public void Win()
     {
-        Debug.Log("gameOver!");
+        Time.timeScale = 0;
+        SceneController.OpenwinnerUI = true;
+        WinUI.SetActive(true);
+        Cursor.visible = true;
     }
 }

@@ -33,13 +33,13 @@ public class SceneController : MonoBehaviour
     void Update()
     {
         time = time + Time.deltaTime;
-        if (Input.GetKeyDown(KeyCode.Escape) && Time.timeScale == 1 && OpenGameoverUI!=true)
+        if (Input.GetKeyDown(KeyCode.Escape) && Time.timeScale == 1 && OpenwinnerUI!=true)
         {
             PauseMenu.SetActive(true);
             Time.timeScale = 0;
             Cursor.visible = true;
         }
-        else if (Input.GetKeyDown(KeyCode.Escape) && Time.timeScale == 0 && OpenGameoverUI!=true)
+        else if (Input.GetKeyDown(KeyCode.Escape) && Time.timeScale == 0 && OpenwinnerUI!= true)
         {
             ResumeGame();
         }

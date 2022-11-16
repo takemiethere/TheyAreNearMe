@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/ImportedAssets/Sherbbs Particle Collection/Scenes/DemoScene.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    path: Assets/Scenes/Playgame.unity
+    guid: 5be310faef3324b4a856cd8889c51f21
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: dd63040c85a633148977bc3fd29986d5
   m_configObjects: {}
